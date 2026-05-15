@@ -1,0 +1,6 @@
+student_id,course_id,activity_type,timestamp
+s1,course_101,video_watch,2025-05-18 10:00:00
+s2,course_101,quiz_attempt,2025-05-18 11:15:00
+s1,course_102,video_watch,2025-05-18 12:00:00
+s3,course_101,video_watch,2025-05-18 10:05:00
+s2,course_103,forum_post,2025-05-18 14:00:00
